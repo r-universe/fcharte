@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mldr",
+    "oncran": true
+  },
+  {
+    "package": "mldr.datasets",
+    "oncran": true
+  }
+]
